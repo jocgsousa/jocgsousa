@@ -8,7 +8,7 @@
   <a href="https://t.me/jocgsousa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><a/>
   
     
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical&hide=prs,issues,contribs&show_icons=true" />
+<img width="40%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical&hide=prs,issues,contribs&show_icons=true" />
    
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
