@@ -1,5 +1,7 @@
 ## Hey, I'm Jociel! 👨‍💻
 
+  <img src="https://github-readme-stats.vercel.app/api?username=jocgsousa" />
+
 - 👨‍💻 I am currently working at SEASPAC/Prefeitura_De_Marabá_PA, as a Software Analyst and Developer
 - 🤓 I'm currently learning a little bit of everything, main JavaScript stack's.
 - 👯 Looking to collaborate with open source projects, and ERP solutions
