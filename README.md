@@ -11,7 +11,7 @@
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical&hide=prs,issues,contribs&show_icons=true" />
    
    
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jocgsousa)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jocgsousa)](https://github.com/anuraghazra/github-readme-stats)
 
     
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocgsousa)](https://github.com/anuraghazra/github-readme-stats) -->
