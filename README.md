@@ -12,6 +12,6 @@
 <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical" />
 
   
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&theme=aura" />
   
   
