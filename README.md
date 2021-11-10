@@ -10,24 +10,17 @@
     
 <img width="40%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical&hide=prs,issues,contribs&show_icons=true" />
    
+  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact" />
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+   
+   
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
     
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocgsousa)](https://github.com/anuraghazra/github-readme-stats) -->
 
-  
-  
- 
-
- 
-  
-
 <!-- <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical" /> -->
-
-  
+ 
 <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&theme=aura" /> -->
   
   
