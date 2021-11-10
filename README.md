@@ -9,9 +9,9 @@
 <a href="https://t.me/jocgsousa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><a/>
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=jocgsousa" />
+<img width="100%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa" />
 
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa" />
   
   
