@@ -11,7 +11,8 @@
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical&hide=prs,issues,contribs&show_icons=true" />
    
    
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jocgsousa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
     
