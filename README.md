@@ -10,7 +10,8 @@
     
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical" />
     
-  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocgsousa)](https://github.com/anuraghazra/github-readme-stats)
+
   
   
  
