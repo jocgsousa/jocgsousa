@@ -11,7 +11,7 @@
   
     
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical&hide=prs,issues,contribs&show_icons=true" />
-<img   width="200px" src="https://miro.medium.com/max/680/1*VON9gHTrzeHZbHfXsqfzEA.gif" />
+<img width="500px" height="100px" src="https://miro.medium.com/max/680/1*VON9gHTrzeHZbHfXsqfzEA.gif" />
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact&theme=radical" />
    
 
