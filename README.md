@@ -11,7 +11,7 @@
   
     
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical&hide=prs,issues,contribs&show_icons=true" />
-<img width="50%" height="250px" src="https://hectorfront.github.io/images/node.gif" />
+<img width="50%"   src="https://hectorfront.github.io/images/node.gif" />
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact&theme=radical" />
    
 
