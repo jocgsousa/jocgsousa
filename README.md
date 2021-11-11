@@ -1,4 +1,6 @@
 ## Hey, I'm Jociel! 👨‍💻
+
+<img   width="200px" src="https://miro.medium.com/max/680/1*VON9gHTrzeHZbHfXsqfzEA.gif" />
  - 👨‍💻 I am currently working at SEASPAC/Prefeitura_De_Marabá_PA, as a Software Analyst and Developer  
  - 🤓 I'm currently learning a little bit of everything, main JavaScript stack's. 
   - 👯 Looking to collaborate with open source projects, and ERP solutions 
@@ -13,7 +15,7 @@
   
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact&theme=radical" />
    
-   
+
    
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
     
