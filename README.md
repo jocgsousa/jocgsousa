@@ -1,4 +1,4 @@
-## Hey, I'm Jociel! 👨‍💻    <a href="" > <img width="10%"   src="https://w7.pngwing.com/pngs/558/166/png-transparent-node-js-javascript-react-express-js-linux-foundation-mongodb-icons-angle-text-rectangle.png" />  </a>
+## Hey, I'm Jociel! 👨‍💻    <a href="" > <img width="10%"   src="https://img.icons8.com/color/480/nodejs.png" />  </a>
 
 
  - 👨‍💻 I am currently working at SEASPAC/Prefeitura_De_Marabá_PA, as a Software Analyst and Developer  
