@@ -7,11 +7,11 @@
 
   <a href="mailto:gregoriociacom@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
   <a href="https://www.linkedin.com/in/jociel-gregorio-b996521b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
-  <a href="https://t.me/jocgsousa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><a/>
+  <a href="https://t.me/jocgsousa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><a/> <a href="" > <img width="10%"   src="https://hectorfront.github.io/images/node.gif" />  </a>
   
     
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=jocgsousa&theme=radical&hide=prs,issues,contribs&show_icons=true" />
-<img width="10%"   src="https://hectorfront.github.io/images/node.gif" />
+
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocgsousa&layout=compact&theme=radical" />
    
 
